@@ -1,7 +1,7 @@
 1.	Course Overview
     - What is Power BI?
     - Introduction?
-c.	Power BI Components?
+    - Power BI Components?
 i.	Power BI Desktop
 ii.	Power BI Service
 iii.	Data Gateways
