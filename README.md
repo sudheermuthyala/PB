@@ -27,6 +27,3 @@ hemanth
   tasks :
     - name : ping the dev node
       ping :
-© 2022 GitHub, Inc.
-Terms
-Privacy
