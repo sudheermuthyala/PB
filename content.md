@@ -14,7 +14,7 @@
         - Power Q & A (Natural language question and answering engine.)
 
 
-        e.	Power BI Desktop vs Power BI Services (Pro/Premium/PPU)
+    - Power BI Desktop vs Power BI Services (Pro/Premium/PPU)
 f.	Power BI Sources
 File Source –
 Excel, Text/CSV, XML, JSON, Folder, PDF, Share point Folder 
