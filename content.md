@@ -7,8 +7,8 @@
         - Data Gateways
 	    - Power BI Mobile
     - Power BI Desktop Components?
-i.	Power Query (Data mash-up and transformation tool)
-ii.	Power Pivot (In-memory tabular data modeling tool)
-iii.	Power View (Data visualization tool.)
-iv.	Power Map (3D Geo-spatial data visualization tool)
-v.	Power Q & A (Natural language question and answering engine.)
+Power Query (Data mash-up and transformation tool)
+	Power Pivot (In-memory tabular data modeling tool)
+.	Power View (Data visualization tool.)
+	Power Map (3D Geo-spatial data visualization tool)
+Power Q & A (Natural language question and answering engine.)
