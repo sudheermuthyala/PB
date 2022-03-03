@@ -39,5 +39,5 @@ The Power Query editor represents the Power Query user interface, where you can 
 2.	**Queries pane:** a view of all your available queries.
 3.	**Current view:** your main working view, that by default, displays a preview of the data for your query. You can also enable the diagram view along with the data preview view. You can also switch between the schema view and the data preview view while maintaining the diagram view.
 NOTE: The Schema view and Diagram View feature are available only for Power Query Online.
-4.	Query settings: a view of the currently selected query with relevant information, such as query name, query steps, and various indicators.
-5.	Status bar: a bar displaying relevant important information about your query, such as execution time, total columns and rows, and processing status. This bar also contains buttons to change your current view.
+4.	**Query settings:** a view of the currently selected query with relevant information, such as query name, query steps, and various indicators.
+5.	**Status bar:** a bar displaying relevant important information about your query, such as execution time, total columns and rows, and processing status. This bar also contains buttons to change your current view.
