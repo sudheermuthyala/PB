@@ -11,4 +11,4 @@
 	    - Power Pivot (In-memory tabular data modeling tool)
         - Power View (Data visualization tool.)
 	    - Power Map (3D Geo-spatial data visualization tool)
-Power Q & A (Natural language question and answering engine.)
+        - Power Q & A (Natural language question and answering engine.)
