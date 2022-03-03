@@ -6,3 +6,4 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 ![](2022-03-03-16-36-12.png)
 
 **How does Power Query help with data acquisition?**
+- 
