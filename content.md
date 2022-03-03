@@ -21,9 +21,9 @@
         - Database—
             SQL Server Database, Access Database, SQL Server Analysis Services Database, Oracle Database, IBM DB2 Database, MySQL Database, PostgreSQL Database, Teradata Database, SAP Hana, Amazon Redshift, etc.
         - Power Platforms--
-Power BI Datasets
-Power BI Dataflows 
-Common Data Services 
+            Power BI Datasets
+            Power BI Dataflows 
+            Common Data Services 
 Azure--
 Azure SQL DB, Azure SQL Data Warehouse, Azure Analysis Services, Azure Blob Storage, Azure Table Storage, Azure Data Lake Storage Gen2 (Beta), Azure Data Lake Storage Gen1, Azure Cosmos DB, etc.
 Online Services--
