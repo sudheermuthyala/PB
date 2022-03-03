@@ -27,4 +27,4 @@ The Power Query Editor is the primary data preparation experience, where you can
 When you create a new transformation step by interacting with the components of the Power Query interface, Power Query automatically creates the M code required to do the transformation so you don't need to write any code.
 
 Currently, two Power Query experiences are available:
--
+- **Power Query Online**
