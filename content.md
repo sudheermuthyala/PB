@@ -2,8 +2,8 @@
     - What is Power BI?
     - Introduction?
     - Power BI Components?
-Power BI Desktop
-	Power BI Service
+        - Power BI Desktop
+	-   - Power BI Service
 .	Data Gateways
 	Power BI Mobile
 d.	Power BI Desktop Components?
