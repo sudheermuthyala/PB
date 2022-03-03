@@ -18,3 +18,19 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 **Where can you use Power Query?**
 The following table lists Microsoft products and services where Power Query can be found.
 ```t
+WHERE CAN YOU USE POWER QUERY?
+Product	M engine	Power Query
+Desktop	Power Query
+Online	Dataflows  
+Excel for Windows	Yes	Yes	No	No
+Excel for Mac	Yes	No	No	No
+Power BI	Yes	Yes	Yes	Yes
+Power Apps	Yes	No	Yes	Yes
+Power Automate	Yes	No	Yes	No
+Azure Data Factory	Yes	No	Yes	Yes
+SQL Server Integration Services	Yes	No	No	No
+SQL Server Analysis Services	Yes	Yes	No	No
+Dynamics 365 Customer Insights	Yes	No	Yes	Yes
+
+
+```
