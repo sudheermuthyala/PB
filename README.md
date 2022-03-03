@@ -23,3 +23,7 @@ The following table lists Microsoft products and services where Power Query can 
 ![](2022-03-03-16-45-50.png)
 
 # 1.Power Query User Experience ?
+The Power Query Editor is the primary data preparation experience, where you can connect to a wide range of data sources and apply hundreds of different data transformations by previewing data and selecting transformations from the UI. These data transformation capabilities are common across all data sources, whatever the underlying data source limitations.
+When you create a new transformation step by interacting with the components of the Power Query interface, Power Query automatically creates the M code required to do the transformation so you don't need to write any code.
+
+Currently, two Power Query experiences are available:
