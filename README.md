@@ -6,7 +6,7 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 ![](2022-03-03-16-36-12.png)
 
 **How does Power Query help with data acquisition?**
-- 	Power Query enables connectivity to a wide range of data sources, including data of all sizes and shapes.
+ 	Power Query enables connectivity to a wide range of data sources, including data of all sizes and shapes.
 	Power Query Consistency of experience, and parity of query capabilities over all data sources.
 	Highly interactive and intuitive experience for rapidly and iteratively building queries over any data source, of any size.
 	When using Power Query to access and transform data, you define a repeatable process (query) that can be easily refreshed in the future to get up-to-date data.
