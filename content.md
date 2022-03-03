@@ -19,7 +19,7 @@
         - File Source –
             Excel, Text/CSV, XML, JSON, Folder, PDF, Share point Folder 
         - Database—
-SQL Server Database, Access Database, SQL Server Analysis Services Database, Oracle Database, IBM DB2 Database, MySQL Database, PostgreSQL Database, Teradata Database, SAP Hana, Amazon Redshift, etc.
+            SQL Server Database, Access Database, SQL Server Analysis Services Database, Oracle Database, IBM DB2 Database, MySQL Database, PostgreSQL Database, Teradata Database, SAP Hana, Amazon Redshift, etc.
 Power Platforms--
 Power BI Datasets
 Power BI Dataflows 
