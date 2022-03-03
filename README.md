@@ -17,4 +17,4 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 
 **Where can you use Power Query?**
 The following table lists Microsoft products and services where Power Query can be found.
-
+![](2022-03-03-16-43-52.png)
