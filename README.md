@@ -31,4 +31,4 @@ Currently, two Power Query experiences are available:
 - **Power Query for Desktop :** Found in integrations such as Power Query for Excel and Power BI Desktop.
 
 # 2.By default Power Quey Page looks like in the below,
-
+The Power Query editor represents the Power Query user interface, where you can add or modify queries, manage queries by grouping or adding descriptions to query steps or visualize your queries and their structure with different views. The Power Query user interface has five distinct components.
