@@ -43,3 +43,5 @@ NOTE: The Schema view and Diagram View feature are available only for Power Quer
 5.	**Status bar:** a bar displaying relevant important information about your query, such as execution time, total columns and rows, and processing status. This bar also contains buttons to change your current view.
 
 # 3. Transformations in Power Query:
+These transformations can be as simple as removing a column or filtering rows, or as common as using the first row as a table header. There are also advanced transformation options such as merge, append, group by, pivot, and unpivot.
+The following illustration shows a few of the transformations available in Power Query Editor.
