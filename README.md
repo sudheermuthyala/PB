@@ -28,3 +28,4 @@ When you create a new transformation step by interacting with the components of 
 
 Currently, two Power Query experiences are available:
 - **Power Query Online :** Found in integrations such as Power BI dataflows, Microsoft Power Platform dataflows, Azure Data Factory wrangling dataflows, and many more that provide the experience through an online webpage.
+- **•	Power Query for Desktop**
