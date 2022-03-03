@@ -15,3 +15,4 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 -	Power Query queries can be refreshed manually or by taking advantage of scheduled refresh capabilities in specific products (such as Power BI) or even programmatically (by using the Excel object model).
 -	Because Power Query provides connectivity to hundreds of data sources and over 350 different types of data transformations for each of these sources, you can work with data from any source and in any shape.
 
+**Where can you use Power Query?**
