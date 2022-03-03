@@ -41,3 +41,5 @@ The Power Query editor represents the Power Query user interface, where you can 
 NOTE: The Schema view and Diagram View feature are available only for Power Query Online.
 4.	**Query settings:** a view of the currently selected query with relevant information, such as query name, query steps, and various indicators.
 5.	**Status bar:** a bar displaying relevant important information about your query, such as execution time, total columns and rows, and processing status. This bar also contains buttons to change your current view.
+
+Transformations in Power Query:
