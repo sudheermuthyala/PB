@@ -21,4 +21,10 @@ The following table lists Microsoft products and services where Power Query can 
 sudheer
 hemanth
 
+- name : ping playbook
+  hosts : DEV
+  tasks :
+    - name : ping the dev node
+      ping :
+
 ```
