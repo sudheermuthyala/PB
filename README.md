@@ -32,3 +32,5 @@ Currently, two Power Query experiences are available:
 
 # 2.By default Power Quey Page looks like in the below,
 The Power Query editor represents the Power Query user interface, where you can add or modify queries, manage queries by grouping or adding descriptions to query steps or visualize your queries and their structure with different views. The Power Query user interface has five distinct components.
+
+![](2022-03-03-16-51-40.png)
