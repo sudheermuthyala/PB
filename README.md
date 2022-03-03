@@ -17,14 +17,3 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 
 **Where can you use Power Query?**
 The following table lists Microsoft products and services where Power Query can be found.
-```t
-sudheer
-hemanth
-
-- name : ping playbook
-  hosts : DEV
-  tasks :
-    - name : ping the dev node
-      ping :
-
-```
