@@ -29,5 +29,5 @@
         - Online Services--
             SharePoint Online List, Microsoft Exchange Online, Dynamic 365 (Online), Azure DevOps (Beta), Azure DevOps Server (Beta), Salesforce, Google Analytics, Facebook (Meta), GitHub (Beta), etc.
         - Others--
-Web, SharePoint List, OData Feed, Active Directory, Hadoop File, Spark, R Script, Python Script, ODBC, OLE DB, etc.
+            Web, SharePoint List, OData Feed, Active Directory, Hadoop File, Spark, R Script, Python Script, ODBC, OLE DB, etc.
 
