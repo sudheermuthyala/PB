@@ -22,8 +22,3 @@ sudheer
 hemanth
 
 ```
-- name : ping playbook
-  hosts : DEV
-  tasks :
-    - name : ping the dev node
-      ping :
