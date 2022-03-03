@@ -31,3 +31,4 @@ Currently, two Power Query experiences are available:
 - **Power Query for Desktop :** Found in integrations such as Power Query for Excel and Power BI Desktop.
 
 # 2.By default Power Quey Page looks like in the below,
+
