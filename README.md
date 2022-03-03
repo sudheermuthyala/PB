@@ -49,3 +49,4 @@ The following illustration shows a few of the transformations available in Power
 ![](2022-03-03-16-54-51.png)
 
 # 4. Power Query M formula language
+The M language is the data transformation language of Power Query. Anything that happens in the query is ultimately written in M. If you want to do advanced transformations using the Power Query engine, you can use the Advanced Editor to access the script of the query and modify it as you want. If you find that the user interface functions and transformations won't perform the exact changes you need, use the Advanced Editor and the M language to fine-tune your functions and transformations.
