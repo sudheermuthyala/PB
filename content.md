@@ -27,7 +27,7 @@
         - Azure--
             Azure SQL DB, Azure SQL Data Warehouse, Azure Analysis Services, Azure Blob Storage, Azure Table Storage, Azure Data Lake Storage Gen2 (Beta), Azure Data Lake Storage Gen1, Azure Cosmos DB, etc.
         - Online Services--
-SharePoint Online List, Microsoft Exchange Online, Dynamic 365 (Online), Azure DevOps (Beta), Azure DevOps Server (Beta), Salesforce, Google Analytics, Facebook (Meta), GitHub (Beta), etc.
-        -   Others--
+            SharePoint Online List, Microsoft Exchange Online, Dynamic 365 (Online), Azure DevOps (Beta), Azure DevOps Server (Beta), Salesforce, Google Analytics, Facebook (Meta), GitHub (Beta), etc.
+        - Others--
 Web, SharePoint List, OData Feed, Active Directory, Hadoop File, Spark, R Script, Python Script, ODBC, OLE DB, etc.
 
