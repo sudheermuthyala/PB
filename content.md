@@ -1,5 +1,5 @@
 1.	Course Overview
-a.	What is Power BI?
+    - What is Power BI?
 b.	Introduction?
 c.	Power BI Components?
 i.	Power BI Desktop
