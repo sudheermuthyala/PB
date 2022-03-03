@@ -47,3 +47,5 @@ These transformations can be as simple as removing a column or filtering rows, o
 The following illustration shows a few of the transformations available in Power Query Editor.
 
 ![](2022-03-03-16-54-51.png)
+
+# 4. Power Query M formula language
