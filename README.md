@@ -16,3 +16,5 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 -	Because Power Query provides connectivity to hundreds of data sources and over 350 different types of data transformations for each of these sources, you can work with data from any source and in any shape.
 
 **Where can you use Power Query?**
+The following table lists Microsoft products and services where Power Query can be found.
+```t
