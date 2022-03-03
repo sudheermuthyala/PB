@@ -20,3 +20,4 @@ Using Power Query, you can perform the extract, transform, and load (ETL) proces
 The following table lists Microsoft products and services where Power Query can be found.
 
 ![](2022-03-03-16-43-52.png)
+![](2022-03-03-16-45-50.png)
